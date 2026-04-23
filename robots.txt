@@ -1,4 +1,44 @@
-User-agent: *
-Allow: /
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-Sitemap: https://video.smotrim-lostfilm.ru/sitemap.xml
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/killhaus-2026-smotret-onlain.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/smotret-film-killhaus-2026-onlain.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/hdrezka-film-killhaus-2026-smotret-onlain.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/smotret-killhaus-2026-smotret-besplatno-onlain.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/smotret-onlain-killhaus-film-2026.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/smotret-polniy-film-killhaus-2026-onlain.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+  <url>
+    <loc>https://video.smotrim-lostfilm.ru/fillm-killhaus-2026-divitisy-onlain-na-planeta-kino.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+
+</urlset>
